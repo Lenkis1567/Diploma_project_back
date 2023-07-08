@@ -1,0 +1,60 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+library_front/node_modules
+/.pnp
+.pnp.js
+
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Dependency directories
+/node_modules
+/.pnp
+/.pnp.js
+
+# Built output
+/build
+/dist
+
+# IDE and editor files
+/.idea
+/.vscode
+*.sublime-workspace
+*.swo
+*.swp
+
+# Logs
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+db.sqlite3
+library_top/db1.sqlite3
+db11.sqlite3
+db1.sqlite3
