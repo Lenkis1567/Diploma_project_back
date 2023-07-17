@@ -46,7 +46,7 @@ ptyprocess==0.7.0
 pycparser==2.21
 PyJWT==2.7.0
 pyproject_hooks==1.0.0
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 python3-openid==3.2.0
 pytz==2023.3
 pywin32-ctypes==0.2.2
